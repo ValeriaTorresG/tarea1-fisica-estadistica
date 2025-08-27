@@ -1,6 +1,7 @@
 # Simulación númerica de la marcha aleatoria
 
-Valeria Torres Gomez - 202110363
+### Valeria Torres Gomez - 202110363
+---
 
 Simula una **marcha aleatoria 1D** y verifica dos resultados:
 
