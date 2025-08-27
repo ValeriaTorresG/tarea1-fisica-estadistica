@@ -5,8 +5,8 @@
 
 Simula una **marcha aleatoria 1D** y verifica dos resultados:
 
-1. Para \(N\) muy grande y \(p=1/2\), la **posición final** \(X_N\) se aproxima a una **gaussiana** (Teorema Central del Límite).
-2. El **crecimiento del segundo momento** \(\langle x^2\rangle\) es **lineal** en \(N\), lo que permite estimar la **constante de difusión** \(D\) a partir de la pendiente.
+1. Para N muy grande y p=1/2, la posición final X_N se aproxima a una **gaussiana** (Teorema Central del Límite).
+2. El crecimiento del segundo momento <langle x^2\rangle> es lineal en N, lo que permite estimar la constante de difusión D a partir de la pendiente.
 
 ## Estructura
 - `src/random_walk.py`: contiene las funciones principales.
